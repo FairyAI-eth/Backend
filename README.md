@@ -33,6 +33,6 @@ Prize: 1k
 
 ### Improvements
 
-- Sign in with Privy (email login) and pay with Coinbase onramp. If we implement that we may keep credit/debit card data onchain using Lit protocol.
+- Sign in with Privy (email login) and pay with Coinbase onramp. If we implement that we may keep credit/debit card data on-chain using Lit protocol (as a last last improvement).
 
 
