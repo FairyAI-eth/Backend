@@ -2,7 +2,7 @@
 
 Obo is a Fairy that will onboard you on any chain and any DeFi project in a single wave of her magic wand.
 
-[Obo image](./obo.webp)
+[Obo image](./obo.jpg)
 
 ## User journey
 
