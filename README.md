@@ -1,6 +1,8 @@
-# Backend of Eve the Fairy
+# Backend of Obo the Fairy
 
-Eve is a Fairy that will onboard you on any chain and any DeFi project in a single wave of her magic wand.
+Obo is a Fairy that will onboard you on any chain and any DeFi project in a single wave of her magic wand.
+
+[Obo image](./img/obo.webp)
 
 ## User journey
 
